@@ -1,0 +1,11 @@
+.\src\VGA7segDisplay.v
+.\src\Prescaler.v
+.\src\Top.bde
+.\src\TestBench\VGA7segDisplay_TB.v
+.\synthesis\VGA7segDisplay.edn
+.\synthesis\glbl.v
+.\synthesis\VGA7segDisplay.v
+.\synthesis\Top.edn
+.\synthesis\Top.v
+.\implement\Top.v
+.\implement\glbl.v

@@ -1,0 +1,11 @@
+[Version]
+Version=14.0
+[Designs]
+vga7segdisplay=.\VGA7segDisplay.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+[Expand]
+vga7segdisplay=1
